@@ -1,0 +1,5 @@
+{
+  "all": true,
+  "include": ["pages/**/*.js"],
+  "exclude": ["pages/api/__coverage__.js"]
+}
